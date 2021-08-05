@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cli": "^12.1.4",
+    "@reactivex/rxjs": "^6.6.7",
+    "rxjs": "^7.3.0"
+  }
+}
